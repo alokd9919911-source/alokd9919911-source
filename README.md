@@ -4,7 +4,7 @@
 <!--                     3D HERO HEADER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-![3D Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,20,30&height=240&section=header&text=MOHIT%20KUMAR&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Software%20Engineer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20DSA%20Learner&descSize=18&descColor=00f5ff&descAlignY=64&animation=fadeIn&stroke=00f5ff&strokeWidth=3)
+![3D Banner](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,10,20,30&height=240&section=header&text=ALOK%20DHAR DWIVEDI&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=🚀%20AI%20Software%20Engineer%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20DSA%20Learner&descSize=18&descColor=00f5ff&descAlignY=64&animation=fadeIn&stroke=00f5ff&strokeWidth=3)
 
 <!-- DYNAMIC TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=800&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=false&width=750&height=60&lines=🎓+B.Tech+CSE;🐍+Python+%26+C%2B%2B+Developer;📊+DSA+Problem+Solver;⚡+Future+Cybersecurity+Enthusiast)](https://git.io/typing-svg)
@@ -12,9 +12,9 @@
 <br>
 
 <!-- 3D BADGES ROW -->
-![Views](https://komarev.com/ghpvc/?username=mohit923695-ui&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/mohit923695-ui?style=for-the-badge&logo=github&logoColor=white&color=ff007f&labelColor=0d1117)](https://github.com/mohit923695-ui)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/mohit-kumar-021808399)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)]
+(https://www.linkedin.com/in/alok-dubey-039b68383/)
 [![Stars](https://img.shields.io/github/stars/mohit923695-ui?style=for-the-badge&logo=apachespark&logoColor=FFD700&color=7928ca&labelColor=0d1117)](https://github.com/mohit923695-ui)
 
 </div>
@@ -27,10 +27,7 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies & Achievements
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit923695-ui&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="Mohit's GitHub Trophies" />
 </a>
 
 </div>
