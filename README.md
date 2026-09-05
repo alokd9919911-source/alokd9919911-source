@@ -1,116 +1,44 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Alok Dhar Dwivedi
-</h1>
+# 👋 Hi, I'm Alok Dhar Dwivedi
 
-<h3 align="center">
-  B.Tech CSE Student | Aspiring AI/ML Engineer | Python & DSA Learner
-</h3>
+### 💻 B.Tech CSE Student | 🤖 AI/ML Explorer | 🧠 DSA Learner
 
-<p align="center">
-  <a href="mailto:alokd9919911@gmail.com"> https://github.com/alokd9919911-source">
-    <img src="https://komarev.com/ghpvc/?username=alokd9919911-source&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <img src="https://img.shields.io/github/followers/alokd9919911-source?label=Followers&style=flat" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Python+%7C+DSA+%7C+Web+Development;Exploring+Generative+AI+%26+Agentic+AI;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=alokd9919911-source&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 WHO AM I?
 
-🎓 I'm a **B.Tech Computer Science & Engineering student**.
+```python
+class Alok:
 
-💻 Currently learning **Python, DSA, Web Development & AI/ML**.
+    name = "Alok Dhar Dwivedi"
+    education = "B.Tech - Computer Science & Engineering"
 
-🤖 Interested in **Generative AI and Agentic AI**.
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Agentic AI",
+        "Data Structures & Algorithms",
+        "Web Development"
+    ]
 
-🚀 I love building projects and improving my problem-solving skills.
+    currently_learning = [
+        "Python",
+        "DSA",
+        "AI/ML",
+        "Generative AI"
+    ]
 
-📚 Currently focusing on:
-- Python
-- Data Structures & Algorithms
-- Machine Learning
-- Generative AI
-- Web Development
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-</p>
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alokd9919911-source&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alokd9919911-source&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokd9919911-source&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌐 Portfolio Website
-My personal portfolio website showcasing my skills, projects and achievements.
-
-### 🤖 AI / ML Projects
-Exploring practical applications of Artificial Intelligence and Machine Learning.
-
-### 🧠 DSA Practice
-Regularly solving Data Structures & Algorithms problems to improve problem-solving skills.
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Improve Python
-- 🔥 Master DSA
-- 🤖 Learn Machine Learning
-- 🧠 Explore Generative AI
-- 🚀 Build real-world projects
-- 💼 Prepare for internships
+    mindset = "Learn → Build → Fail → Improve → Repeat 🚀"
 
 </div>
 <!-- ========================================================= -->
