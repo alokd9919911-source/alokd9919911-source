@@ -1,3 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="1280" viewBox="0 0 950 1280">
+  <title>Alok dhar dwivedi — Software Engineer Portfolio</title>
+  <desc>950px wide editable portfolio card. All visible wording is editable SVG text.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07090c"/><stop offset="1" stop-color="#15191d"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171c20"/><stop offset="1" stop-color="#0d1114"/></linearGradient>
+    <style>
+      .white{fill:#f5f5f5;font-family:Arial,Helvetica,sans-serif}.muted{fill:#bfc2c5;font-family:Arial,Helvetica,sans-serif}.orange{fill:#ff8a00;font-family:Arial,Helvetica,sans-serif}.blue{fill:#65a0ff;font-family:Arial,Helvetica,sans-serif}
+      .panel{fill:url(#panel);stroke:#2b3136;stroke-width:1.5}.heading{fill:#ff8a00;font-family:Arial,Helvetica,sans-serif;font-size:25px;font-weight:700;letter-spacing:.5px}.body{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:20px}.label{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.value{fill:#bfc2c5;font-family:Arial,Helvetica,sans-serif;font-size:17px}.tag{fill:#2a3035;stroke:#343b41;stroke-width:1}.tagText{fill:#f1f1f1;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:600}.skillHead{fill:#ededed;font-family:Arial,Helvetica,sans-serif;font-size:18px;font-weight:700}.skillNote{fill:#9fa5aa;font-family:Arial,Helvetica,sans-serif;font-size:15px}
+    </style>
+  </defs>
+  <rect width="950" height="1280" fill="url(#bg)"/>
+  <g transform="translate(25,0)">
+
+  <!-- HEADER -->
+  <text x="52" y="78" class="white" font-size="72" font-weight="700">Anton</text>
+  <text x="265" y="78" class="orange" font-size="72" font-weight="700">Karas</text>
+  <text x="54" y="121" class="white" font-size="29" font-weight="600">Software Engineer</text>
+  <text x="54" y="156" class="white" font-size="21">Full-Stack <tspan fill="#ff8a00">•</tspan> Blockchain <tspan fill="#ff8a00">•</tspan> AI</text>
+  <text x="54" y="188" class="muted" font-size="17">I build scalable web applications, robust backend systems,</text>
+  <text x="54" y="214" class="muted" font-size="17">blockchain solutions, and AI-powered software.</text>
+
+  <rect x="600" y="36" width="264" height="194" rx="20" class="panel"/>
+  <text x="622" y="72" class="orange" font-size="18" font-weight="700">AVAILABLE WORLDWIDE</text>
+  <text x="622" y="110" class="label">Location</text><text x="706" y="110" class="value">Lublin, Poland</text>
+  <text x="622" y="145" class="label">Timezone</text><text x="710" y="145" class="value">Europe/ Warsaw</text>
+  <text x="622" y="180" class="label">Focus</text><text x="680" y="180" class="value">Web3 • AI • Blockchain</text>
+
+  <line x1="52" y1="254" x2="848" y2="254" stroke="#2b3035" stroke-width="2"/>
+
+  <!-- CORE EXPERTISE -->
+  <rect x="36" y="278" width="828" height="380" rx="20" class="panel"/>
+  <text x="62" y="321" class="heading">◎ CORE EXPERTISE</text>
+  <text x="62" y="349" class="skillNote">Full-stack, real-time, healthcare, booking, DeFi, AI, CRM, and marketplace products</text>
+  <line x1="62" y1="366" x2="838" y2="366" stroke="#30363b"/>
+  <g class="body">
+    <text x="78" y="408">Full-Stack Web Applications</text>
+    <text x="78" y="446">Backend Architecture &amp; APIs</text>
+    <text x="78" y="484">REST &amp; WebSocket Systems</text>
+    <text x="78" y="522">Database Design &amp; Modeling</text>
+    <text x="78" y="560">Booking &amp; Reservation Platforms</text>
+    <text x="78" y="598">Healthcare Management Systems</text>
+
+    <text x="450" y="408">Blockchain &amp; DeFi Development</text>
+    <text x="450" y="446">Smart Contracts &amp; Web3</text>
+    <text x="450" y="484">AI &amp; LLM Integration</text>
+    <text x="450" y="522">Real-Time Trading Interfaces</text>
+    <text x="450" y="560">CRM &amp; SaaS Platforms</text>
+    <text x="450" y="598">E-Commerce &amp; Live Streaming</text>
+  </g>
+  <text x="78" y="638" class="skillNote">Production-minded architecture • clean code • secure integrations • scalable systems</text>
+
+  <!-- TECHNICAL SKILLS -->
+  <rect x="36" y="682" width="828" height="520" rx="20" class="panel"/>
+  <text x="62" y="725" class="heading">&lt;/&gt; TECHNICAL SKILLS</text>
+  <text x="62" y="753" class="skillNote">Modern stack for booking, healthcare, trading, AI, CRM, and marketplace applications</text>
+  <line x1="62" y1="770" x2="838" y2="770" stroke="#30363b"/>
+
+  <text x="62" y="812" class="skillHead">Languages</text>
+  <g class="tagText">
+    <rect class="tag" x="175" y="786" width="120" height="36" rx="18"/><text x="235" y="810" text-anchor="middle">JavaScript</text>
+    <rect class="tag" x="306" y="786" width="110" height="36" rx="18"/><text x="361" y="810" text-anchor="middle">TypeScript</text>
+    <rect class="tag" x="427" y="786" width="88" height="36" rx="18"/><text x="471" y="810" text-anchor="middle">Python</text>
+    <rect class="tag" x="526" y="786" width="72" height="36" rx="18"/><text x="562" y="810" text-anchor="middle">PHP</text>
+    <rect class="tag" x="609" y="786" width="68" height="36" rx="18"/><text x="643" y="810" text-anchor="middle">SQL</text>
+    <rect class="tag" x="688" y="786" width="88" height="36" rx="18"/><text x="732" y="810" text-anchor="middle">Golang</text>
+  </g>
+
+  <text x="62" y="868" class="skillHead">Frontend</text>
+  <g class="tagText">
+    <rect class="tag" x="175" y="842" width="82" height="36" rx="18"/><text x="216" y="866" text-anchor="middle">React</text>
+    <rect class="tag" x="268" y="842" width="95" height="36" rx="18"/><text x="315" y="866" text-anchor="middle">Next.js</text>
+    <rect class="tag" x="374" y="842" width="100" height="36" rx="18"/><text x="424" y="866" text-anchor="middle">Tailwind</text>
+    <rect class="tag" x="485" y="842" width="72" height="36" rx="18"/><text x="521" y="866" text-anchor="middle">HTML</text>
+    <rect class="tag" x="568" y="842" width="68" height="36" rx="18"/><text x="602" y="866" text-anchor="middle">CSS</text>
+    <rect class="tag" x="647" y="842" width="120" height="36" rx="18"/><text x="707" y="866" text-anchor="middle">Real-Time UI</text>
+  </g>
+
+  <text x="62" y="924" class="skillHead">Backend &amp; APIs</text>
+  <g class="tagText">
+    <rect class="tag" x="215" y="898" width="95" height="36" rx="18"/><text x="262" y="922" text-anchor="middle">Node.js</text>
+    <rect class="tag" x="321" y="898" width="100" height="36" rx="18"/><text x="371" y="922" text-anchor="middle">Express</text>
+    <rect class="tag" x="432" y="898" width="105" height="36" rx="18"/><text x="484" y="922" text-anchor="middle">REST APIs</text>
+    <rect class="tag" x="548" y="898" width="110" height="36" rx="18"/><text x="603" y="922" text-anchor="middle">WebSocket</text>
+    <rect class="tag" x="669" y="898" width="72" height="36" rx="18"/><text x="705" y="922" text-anchor="middle">Auth</text>
+  </g>
+
+  <text x="62" y="980" class="skillHead">Data &amp; Storage</text>
+  <g class="tagText">
+    <rect class="tag" x="205" y="954" width="110" height="36" rx="18"/><text x="260" y="978" text-anchor="middle">MongoDB</text>
+    <rect class="tag" x="326" y="954" width="120" height="36" rx="18"/><text x="386" y="978" text-anchor="middle">PostgreSQL</text>
+    <rect class="tag" x="457" y="954" width="88" height="36" rx="18"/><text x="501" y="978" text-anchor="middle">MySQL</text>
+    <rect class="tag" x="556" y="954" width="78" height="36" rx="18"/><text x="595" y="978" text-anchor="middle">Redis</text>
+  </g>
+
+  <text x="62" y="1036" class="skillHead">Cloud &amp; DevOps</text>
+  <g class="tagText">
+    <rect class="tag" x="215" y="1010" width="88" height="36" rx="18"/><text x="259" y="1034" text-anchor="middle">Docker</text>
+    <rect class="tag" x="314" y="1010" width="72" height="36" rx="18"/><text x="350" y="1034" text-anchor="middle">AWS</text>
+    <rect class="tag" x="397" y="1010" width="82" height="36" rx="18"/><text x="438" y="1034" text-anchor="middle">CI/CD</text>
+    <rect class="tag" x="490" y="1010" width="105" height="36" rx="18"/><text x="542" y="1034" text-anchor="middle">Deployment</text>
+  </g>
+
+  <text x="62" y="1092" class="skillHead">Blockchain &amp; Web3</text>
+  <g class="tagText">
+    <rect class="tag" x="250" y="1066" width="68" height="36" rx="18"/><text x="284" y="1090" text-anchor="middle">EVM</text>
+    <rect class="tag" x="329" y="1066" width="118" height="36" rx="18"/><text x="388" y="1090" text-anchor="middle">Smart Contracts</text>
+    <rect class="tag" x="458" y="1066" width="58" height="36" rx="18"/><text x="487" y="1090" text-anchor="middle">DeFi</text>
+    <rect class="tag" x="527" y="1066" width="65" height="36" rx="18"/><text x="559" y="1090" text-anchor="middle">Web3</text>
+    <rect class="tag" x="603" y="1066" width="78" height="36" rx="18"/><text x="642" y="1090" text-anchor="middle">Solana</text>
+    <rect class="tag" x="692" y="1066" width="100" height="36" rx="18"/><text x="742" y="1090" text-anchor="middle">Wallet APIs</text>
+  </g>
+
+  <text x="62" y="1148" class="skillHead">AI &amp; Intelligent Systems</text>
+  <g class="tagText">
+    <rect class="tag" x="280" y="1122" width="80" height="36" rx="18"/><text x="320" y="1146" text-anchor="middle">OpenAI</text>
+    <rect class="tag" x="371" y="1122" width="95" height="36" rx="18"/><text x="418" y="1146" text-anchor="middle">LLM Apps</text>
+    <rect class="tag" x="477" y="1122" width="58" height="36" rx="18"/><text x="506" y="1146" text-anchor="middle">RAG</text>
+    <rect class="tag" x="546" y="1122" width="148" height="36" rx="18"/><text x="620" y="1146" text-anchor="middle">Computer Vision</text>
+    <rect class="tag" x="705" y="1122" width="132" height="36" rx="18"/><text x="771" y="1146" text-anchor="middle">Data Extraction</text>
+  </g>
+
+  <text x="450" y="1240" class="orange" font-size="17" text-anchor="middle">Professional software • Clear communication • Long-term value</text>
+  </g>
+</svg>
 <!-- ========================================================= -->
 <!--                    ANTON KARAS README                     -->
 <!-- ========================================================= -->
