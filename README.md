@@ -160,7 +160,7 @@
                     <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" begin="1.12s" repeatCount="indefinite"/>
                     </rect></g>
 <text x="50%" y="135" text-anchor="middle" fill="#7ee787" font-family="monospace" font-size="12">
-AntonKaras • Software Engineer • Full-Stack • AI • Blockchain
+Alok dhar dwivedi • Software Engineer • AI • Blockchain
 </text>
 </svg>
 <!-- ========================================================= -->
