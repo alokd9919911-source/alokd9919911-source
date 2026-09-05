@@ -1,77 +1,69 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 220"
+     width="900"
+     height="220">
 
-<title>Alok Dhar Dwivedi</title>
+  <rect width="900" height="220" fill="#050914"/>
 
-<style>
-    body {
-        margin: 0;
-        background: #050914;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        font-family: monospace;
-    }
+  <g fill="#19e6c3">
 
-    .box {
-        width: 90%;
-        max-width: 1100px;
-        padding: 45px 20px;
-        border: 2px solid #39bfff;
-        text-align: center;
-        box-shadow: 0 0 15px #123;
-    }
+    <!-- A -->
+    <rect x="40" y="30" width="20" height="20"/>
+    <rect x="60" y="30" width="20" height="20"/>
+    <rect x="80" y="30" width="20" height="20"/>
+    <rect x="20" y="50" width="20" height="20"/>
+    <rect x="100" y="50" width="20" height="20"/>
+    <rect x="20" y="70" width="20" height="20"/>
+    <rect x="100" y="70" width="20" height="20"/>
+    <rect x="20" y="90" width="20" height="20"/>
+    <rect x="40" y="90" width="20" height="20"/>
+    <rect x="60" y="90" width="20" height="20"/>
+    <rect x="80" y="90" width="20" height="20"/>
+    <rect x="100" y="90" width="20" height="20"/>
+    <rect x="20" y="110" width="20" height="20"/>
+    <rect x="100" y="110" width="20" height="20"/>
+    <rect x="20" y="130" width="20" height="20"/>
+    <rect x="100" y="130" width="20" height="20"/>
 
-    .name {
-        font-family: "Courier New", monospace;
-        font-size: clamp(45px, 10vw, 120px);
-        font-weight: bold;
-        letter-spacing: 8px;
-        color: #19e6c3;
-        text-shadow:
-            0 0 5px #19e6c3,
-            0 0 15px #19e6c3;
-    }
+    <!-- L -->
+    <rect x="150" y="30" width="20" height="20"/>
+    <rect x="150" y="50" width="20" height="20"/>
+    <rect x="150" y="70" width="20" height="20"/>
+    <rect x="150" y="90" width="20" height="20"/>
+    <rect x="150" y="110" width="20" height="20"/>
+    <rect x="150" y="130" width="20" height="20"/>
+    <rect x="170" y="130" width="20" height="20"/>
+    <rect x="190" y="130" width="20" height="20"/>
+    <rect x="210" y="130" width="20" height="20"/>
 
-    .full-name {
-        margin-top: 20px;
-        color: #19e6c3;
-        font-size: clamp(14px, 2vw, 24px);
-        letter-spacing: 3px;
-    }
+    <!-- O -->
+    <rect x="260" y="30" width="20" height="20"/>
+    <rect x="280" y="30" width="20" height="20"/>
+    <rect x="300" y="30" width="20" height="20"/>
+    <rect x="240" y="50" width="20" height="20"/>
+    <rect x="320" y="50" width="20" height="20"/>
+    <rect x="240" y="70" width="20" height="20"/>
+    <rect x="320" y="70" width="20" height="20"/>
+    <rect x="240" y="90" width="20" height="20"/>
+    <rect x="320" y="90" width="20" height="20"/>
+    <rect x="240" y="110" width="20" height="20"/>
+    <rect x="320" y="110" width="20" height="20"/>
+    <rect x="260" y="130" width="20" height="20"/>
+    <rect x="280" y="130" width="20" height="20"/>
+    <rect x="300" y="130" width="20" height="20"/>
 
-    .info {
-        margin-top: 8px;
-        color: white;
-        font-size: 16px;
-    }
-</style>
-</head>
+  </g>
 
-<body>
+  <text x="450" y="185"
+        fill="#19e6c3"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="22"
+        letter-spacing="3">
+    ALOK DHAR DWIVEDI
+  </text>
 
-<div class="box">
-
-    <div class="name">
-        ALOK
-    </div>
-
-    <div class="full-name">
-        Alok Dhar Dwivedi
-    </div>
-
-    <div class="info">
-        Software Engineer • AI • Blockchain
-    </div>
-
-</div>
-
-</body>
-</html>
+</svg>
 <!-- ========================================================= -->
 <!--                    ANTON KARAS README                     -->
 <!-- ========================================================= -->
