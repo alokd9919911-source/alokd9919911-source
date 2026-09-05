@@ -111,18 +111,6 @@ Regularly solving Data Structures & Algorithms problems to improve problem-solvi
 - 🧠 Explore Generative AI
 - 🚀 Build real-world projects
 - 💼 Prepare for internships
-- 🌐 Build a strong GitHub portfolio
-
----
-
-## 📚 Currently Learning
-
-```text
-Python              █████████░  90%
-DSA                 ███████░░░  70%
-Web Development     ███████░░░  70%
-Machine Learning    █████░░░░░  50%
-Generative AI       ████░░░░░░  40%
 
 </div>
 <!-- ========================================================= -->
