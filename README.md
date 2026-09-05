@@ -6,12 +6,12 @@
   <img
     src="./About_me.svg?v=20260825d"
     width="970"
-    alt="Anton Karas - Full Stack Developer"
+    alt="Alok dhar dwivedi - AIML"
   />
 </p>
 
 <p align="center">
-  <a href="https://github.com/antonkarasbiz/portfolio">
+  <a href="https://github.com/alokd9919911biz/portfolio">
     <img
       src="./badges/portfolio.svg"
       width="400"
@@ -20,7 +20,7 @@
     />
   </a>
   &nbsp;
-  <a href="https://antonkarasbiz.github.io/portfolio/">
+  <a href="https://biz.githubalokd991991.io/portfolio/">
     <img
       src="./badges/gallery.svg"
       width="400"
