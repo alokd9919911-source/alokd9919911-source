@@ -35,13 +35,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonkarasbiz@gmail.com)
+
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/antonkaras_biz)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/381074277870469122)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-e7e9ea?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/antonkaras_biz)
+
 
 </div>
 
