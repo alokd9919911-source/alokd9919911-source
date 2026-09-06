@@ -1,40 +1,14 @@
-# 🤖 AI Resume Analyzer
+<div align="center">
 
-An ATS-style resume analyzer built with **Python + Streamlit**.
+# 👋 Hi, I'm Alok Dhar Dwivedi
 
-## Features
+### 💻 B.Tech CSE Student | 🤖 AI/ML Explorer | 🧠 DSA Learner
 
-- Upload PDF, DOCX or TXT resume
-- Paste a job description
-- Calculate keyword-match ATS score
-- Show matched keywords
-- Show missing keywords
-- Check important resume sections
-- Give improvement suggestions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Python+%7C+DSA+%7C+Web+Development;Exploring+Generative+AI+%26+Agentic+AI;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" />
+<br>
 
-## Tech Stack
+<img src="https://komarev.com/ghpvc/?username=alokd9919911-source&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
-- Python
-- Streamlit
-- PyPDF
-- python-docx
+</div>
 
-## Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Project Idea
-
-This project helps students understand how their resume matches a specific job description and what skills/keywords they should improve.
-
-## Future Improvements
-
-- AI-powered resume feedback
-- Skill recommendations
-- Resume section quality scoring
-- Job-role recommendations
-- Resume PDF report generation
-- https://alokd9919911-source-rlqqydrgnz5erberersqwb.streamlit.app/
+</div>
