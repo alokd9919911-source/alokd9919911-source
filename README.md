@@ -20,7 +20,11 @@
   <img
     src="./About_me.svg?v=20260825d"
     width="970"
-    alt="Alok dhar dwivedi - AIML"
+    alt="Alok dhar dwivedi - AIML"## 🚀 Featured Project
+
+### 🤖 AI Resume Analyzer
+An ATS-style resume analyzer built with Python and Streamlit to evaluate resumes against job descriptions.
+- **[🔗 Live Demo https://alokd9919911-source-rlqqydrgnz5erberersqwb.streamlit.app/
   />
 </p>
 
